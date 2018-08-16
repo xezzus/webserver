@@ -8,7 +8,7 @@
 pacman -Syu --noconfirm
 
 # install packages
-pacman -S --noconfirm nginx vim postgresql redis composer 
+pacman -S --noconfirm nginx vim postgresql redis composer git
 pacman -S --noconfirm php php-fpm php-gd php-intl php-pgsql php-sqlite php-xsl php-geoip php-redis
 
 #
